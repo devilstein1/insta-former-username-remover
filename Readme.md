@@ -1,6 +1,6 @@
 # ⚡️ Insta Former Username Remover  
 
-> 💀 A clean and powerful Termux / Pydroid tool to **remove your former Instagram usernames** — reset your old history in just a few runs!
+> 💀 A clean and powerful Termux / Pydroid tool to **remove your former Instagram usernames**  reset your old history in just a few runs!
 
 ---
 
@@ -25,7 +25,7 @@ python remover-3.12.py
 ## 📱 Usage (Pydroid)
 
 You can also use it directly in **Pydroid**:  
-Just open the folder, install dependencies from `requirements.txt`, and run `remover-3.12.py`.
+Just open the folder, install dependencies from `requirements.txt`, and run `remover-3.13.py`.
 
 ---
 
@@ -38,7 +38,7 @@ Just open the folder, install dependencies from `requirements.txt`, and run `rem
 
 ## 🧹 What This Script Does
 
-✨ It **removes all your former Instagram usernames** — resetting your old username history.  
+✨ It **removes all your former Instagram usernames**  resetting your old username history.  
 🔁 Usually takes about **4–5 runs** to reach **zero former usernames**.
 
 ---
