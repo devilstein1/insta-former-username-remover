@@ -62,5 +62,5 @@ Just open the folder, install dependencies from `requirements.txt`, and run `rem
 
 ## ❤️ Enjoy!
 
-> This is a **free file** — have fun and keep things clean!  
+> This is a **free file**  have fun and keep things clean!  
 > Made with ⚡ by **STEIN**
